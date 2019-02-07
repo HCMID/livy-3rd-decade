@@ -4,9 +4,9 @@
 
 URNs for :
 
--  text of Livy:  `urn:cts:omar:stoa0179.stoa001.bnf5730:`
--  pages of BNF codex 5730:  `urn:cite2:gallica:bnf5730pages.v1:`
--  images of manuscript: `urn:cite2:gallica:bnf5730imgs.v1:`
+-  text of Livy:  `urn:cts:omar:stoa0179.stoa001.bnf5730:ADD_PASSAGE` (e.g., `21.1`)
+-  pages of BNF codex 5730:  `urn:cite2:gallica:bnf5730pages.v1:ADD_PAGE`  (e.g., `1v`)
+-  images of manuscript: `urn:cite2:gallica:bnf5730imgs.v1:ADD_IMAGE` (e.g., `BNF5730_13`)
 
 Navigating pages and images:
 
