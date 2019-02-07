@@ -1,0 +1,2 @@
+Text URN#Format#Document#Namespace mapping#Citation model
+urn:cts:omar:stoa0179.stoa001.bnf5730:#xml#livy-bnf5730.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:ab[@n = '?']

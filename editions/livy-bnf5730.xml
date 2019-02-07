@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>History of Rome</title>
+        <author>Livy</author>
+        <editor>NAME OF EDITOR (repeat as many as needed)</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished work in progress</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from publicly available images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div n="21">
+        <ab n="1">
+          TEXT CONTENTS of Livy, 21.1.
+        </ab>
+      </div>
+
+    </body>
+  </text>
+
+</TEI>
