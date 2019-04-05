@@ -3,9 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>History of Rome</title>
+        <title>Abe Urbe Condita</title>
         <author>Livy</author>
-        <editor>NAME OF EDITOR (repeat as many as needed)</editor>
+        <editor>Richard Ciolek</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished work in progress</p>
@@ -19,8 +19,13 @@
   <text>
     <body>
       <div n="21">
-        <ab n="1">
-          TEXT CONTENTS of Livy, 21.1.
+        <ab n="20">
+        <p>
+          <unclear>ius</unclear> auidissima gens est principum animi concilientur ita peragratis <chocie><sic><placeName n=urn:cite2:livy:place.v1:pl2>hispania</placeName>
+        </sic><corr><placeName n=urn:cite2:livy:place.v1:pl2>hispaniae</placeName></corr></choice>
+          <add>et</add> <choice><sic><placeName n=urn:cite2:livy:place.v1:pl1>gallia</placeName></sic><corr><placeName n=urn:cite2:livy:place.v1:pl1>galliae </placeName></corr></choice> populisque legati
+          <placeName n=urn:cite2:livy:place.v1:pl3>romam</placeName>
+        </p>
         </ab>
       </div>
 
